@@ -1,2 +1,4 @@
 # dragonfight
-A command line text program
+A command line text program in the vein of a choose your own adventure story. The goal was to create a program that asks the user to choose a character based on the basic dungeons and dragons classes. Fighter, mage, or thief. Each character would have different moves, and they would be fighting a dragon that would have its own moves. 
+It would be turn based, and I based the gameplay on a Pokemon battle. There would be health for the player and the dragon. When one reaches below 0, the game ends and the winner is declared.
+The learning goal for this program was to learn how to deal with player input with multiple options. The player can choose to be 1 of 3 characters, and all the characters have different moves. The difference between the moves is admittedly name differences, but I wanted to learn how to effectively deal with creating a program that can have many branching options. 
